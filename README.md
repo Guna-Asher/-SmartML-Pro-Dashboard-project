@@ -185,7 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/Guna-Asher/smartml-pro/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Guna-Asher/smartml-pro/discussions)
-- **Email**: support@smartml-pro.com
+- **Email**: gunardsce@gmail.com
 
 ## 🔄 Changelog
 
