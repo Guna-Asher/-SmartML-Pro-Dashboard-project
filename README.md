@@ -49,7 +49,7 @@ A comprehensive, user-friendly machine learning dashboard built with Streamlit t
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/smartml-pro.git
+git clone https://github.com/Guna-Asher/smartml-pro.git
 cd smartml-pro
 ```
 
@@ -183,8 +183,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/smartml-pro/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/smartml-pro/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Guna-Asher/smartml-pro/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Guna-Asher/smartml-pro/discussions)
 - **Email**: support@smartml-pro.com
 
 ## 🔄 Changelog
@@ -201,6 +201,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Support for common algorithms
 - Basic EDA and visualization
 
----
-
-**Made with ❤️ by the SmartML Pro Team**
